@@ -1,6 +1,7 @@
 Agenda Nails
 
-*Status do Projeto*: Em desenvolvimento
+*Status do Projeto*: 
+Em desenvolvimento
 
 Descrição: 
 Agenda Nails é um sistema desktop desenvolvido para gerenciar agendamentos de horários em serviços de manicure e pedicure. O sistema permite o cadastro de profissionais, cadastro de clientes e o agendamento de horários conforme a disponibilidade de cada profissional.
